@@ -1,6 +1,6 @@
 package com.eucodo.usuario.infraestructure.repository;
 
-import com.eucodosolutions.aprendendospring.infraestructure.entity.Endereco;
+import com.eucodo.usuario.infraestructure.entity.Endereco;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
